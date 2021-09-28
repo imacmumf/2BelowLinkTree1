@@ -1,0 +1,24 @@
+.card{
+    text-align: center;
+    border-radius: 12px;
+    border-width: 2px;
+    border-style: outset;
+    border-color: white;
+    box-shadow: 2rem;
+    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+    margin: 3rem;
+    width: 40%;
+    margin: auto;
+    /* background-image: linear-gradient(to right, #3d39ad, #457ac4); */
+    margin-top: 2rem;
+    padding: 2rem;
+}
+
+
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (-webkit-min-device-pixel-ratio: 2) {
+    .card{
+        width: 80%;
+    }
+
+}
