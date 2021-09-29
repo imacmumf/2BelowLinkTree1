@@ -2,7 +2,7 @@
   "homepage": "http://imacmumf.github.io/2BelowLinkTree1",
   "name": "react-complete-guide",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
